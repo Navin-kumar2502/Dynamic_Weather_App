@@ -2,7 +2,7 @@ const express = require('express');
 const requests = require('requests');
 const fs = require('fs');
 const app = express();
-const port = process.env.PORT || 8000;
+const port ="https://dynamic-weather-app-z9xi.onrender.com/?city";
 
 // Read the HTML file
 const homeFile = fs.readFileSync('index.html', 'UTF-8');
