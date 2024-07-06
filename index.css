@@ -13,7 +13,7 @@ html{
 
 .box{
     width:20vw;
-    height:60vh;
+    height:60vh; 
     border-radius: 10px;
     box-shadow: 0 0.2rem 3 rem black;
     background: #a5bbdd;
